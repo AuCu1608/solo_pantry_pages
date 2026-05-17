@@ -8,3 +8,6 @@ Published URLs:
 
 - Privacy Policy: https://aucu1608.github.io/solo_pantry_pages/privacy.html
 - User Support: https://aucu1608.github.io/solo_pantry_pages/support.html
+- Chinese Home: https://aucu1608.github.io/solo_pantry_pages/zh.html
+- Chinese Privacy Policy: https://aucu1608.github.io/solo_pantry_pages/privacy-zh.html
+- Chinese User Support: https://aucu1608.github.io/solo_pantry_pages/support-zh.html
